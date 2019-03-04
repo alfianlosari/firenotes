@@ -1,5 +1,7 @@
 # firenotes
 
+![Alt text](./prmo.png?raw=true "firenotes app")
+
 A Flutter notes app using Firestore and Firebase Storage as backend
 
 ## Getting Started
